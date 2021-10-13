@@ -1,0 +1,60 @@
+/* Скрыть звездочки required */
+/* .ts_calcform .jet-form__required {
+    display: none;
+} */
+/* Позиционирование суммы займа */
+/* .ts_calcform .jet-form-row:nth-child(4) .jet-form__field-value {
+    position: absolute;
+    right: 0;
+    bottom: 23px;
+} */
+/* Позиционирование срока займа */
+/* .ts_calcform .jet-form-row:nth-child(5) .jet-form__field-value {
+    position: absolute;
+    right: 0;
+    bottom: 23px;
+} */
+/* Убрать отступ range */
+/* .ts_calcform input {
+    margin-right: 0!important
+} */
+/* Позиционирование нижних полей */
+/* .ts_calcform .jet-form__calculated-field {
+    position: absolute;
+    right: 35px;
+    line-height: 1.76;
+} */
+/* Правая граница нижних полей */
+/* .ts_calcform .field-type-calculated {
+    position: relative
+} */
+/* Минимум суммы займа */
+/* .ts_calcform input[name="field_summ"]::before {
+    content: "10000";
+    position: absolute;
+    bottom: -20px
+} */
+/* Максимум суммы займа */
+/* .ts_calcform input[name="field_summ"]::after {
+    content: "500000";
+    position: absolute;
+    bottom: -20px;
+    right: 0
+} */
+/* Минимум срока займа */
+/* .ts_calcform input[name="field_period"]::before {
+    content: "2 месяца";
+    position: absolute;
+    bottom: -20px
+} */
+/* Максимум срока займа */
+/* .ts_calcform input[name="field_period"]::after {
+    content: "24 месяца";
+    position: absolute;
+    bottom: -20px;
+    right: 0
+} */
+/* Отступ ежемесячного платежа */
+/* .ts_calcform .field-type-calculated[data-field="field_month"] {
+    margin-top: 15px
+} */
