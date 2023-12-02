@@ -1,5 +1,5 @@
 /* Скрыть звездочки required */
-/* .ts_calcform .jet-form__required {
+.ts_calcform .jet-form__required {
     display: none;
 } */
 /* Позиционирование суммы займа */
